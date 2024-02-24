@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/a7/a8/d0/a7a8d06c754cfbbbc37e64cb118c513c.gif)
 <h1 align="center">Hi 👋, I'm Refat Ahmed</h1>
-<h3 align="center">An Ai And ML Enthusiast </h3>
+<h3 align="center">An AI And ML Enthusiast </h3>
 
 
 
