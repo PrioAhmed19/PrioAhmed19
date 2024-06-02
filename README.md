@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **Stroke Prediction Model**
-- 🌱 I’m currently learning **Image Processing Techniques**
+- 🌱 I’m currently learning **Image Processing Using Deep Learning**
 - 📫 How to reach me **refatahmed@iut-dhaka.edu**
 - ⚡ Fun fact **I am a League of Legends and Valorant player**
 
