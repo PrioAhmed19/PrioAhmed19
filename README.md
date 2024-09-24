@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **ICRP : An Intelligence CVD Risk Profiling for early identification of Myocardial Infraction and Stroke in Bangladesh in AIMS Lab, UIU (Bangladesh)**
 - 🌱 I’m currently learning **Data analysis, research article editing ,grant proposal writing**
 - 📫 How to reach me **refatahmed@iut-dhaka.edu**
-- ⚡ Fun fact **I am a League of Legends and Valorant player**
+- ⚡ Fun fact **I am a big fan of POKEMON**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
