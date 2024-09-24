@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on **ICRP : An Intelligence CVD Risk Profiling for early identification of Myocardial Infraction and Stroke in Bangladesh in AIMS Lab, UIU (Bangladesh)**
-- 🌱 I’m currently learning **Data analysis, wrriting research article, writing grant proposal**
+- 🌱 I’m currently learning **Data analysis, writing research article, writing grant proposal**
 - 📫 How to reach me **refatahmed@iut-dhaka.edu**
 - ⚡ Fun fact **I am a big fan of POKEMON**
 
