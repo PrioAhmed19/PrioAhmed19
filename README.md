@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVnemdkbDVmZmZmN2lsMzl5MnY4b2ZuOHhmZHE3eXQ4czA2dnBxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKOQzwBAubB1ZDO/giphy.gif" alt="MasterHead"/>
-</div>
+![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdjMGk2bm02a3poYXkwZGI5dGpkbGNrY3ZpeHlzc291dmllNGM5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6y6fyAD9OIE6NvhJEu/giphy.gif)
+<h1 align="center">Hi 👋, I'm Refat Ahmed</h1>
+<h3 align="center">An AI And ML Enthusiast </h3>
 <h1 align="center">Hi 👋, I'm Refat Ahmed</h1>
 <h3 align="center">An AI And ML Enthusiast </h3>
 
