@@ -1,5 +1,5 @@
-<div align="center">
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVnemdkbDVmZmZmN2lsMzl5MnY4b2ZuOHhmZHE3eXQ4czA2dnBxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKOQzwBAubB1ZDO/giphy.gif) 
+<div style="text-align: center;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVnemdkbDVmZmZmN2lsMzl5MnY4b2ZuOHhmZHE3eXQ4czA2dnBxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKOQzwBAubB1ZDO/giphy.gif" alt="MasterHead"/>
 </div>
 <h1 align="center">Hi 👋, I'm Refat Ahmed</h1>
 <h3 align="center">An AI And ML Enthusiast </h3>
