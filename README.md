@@ -1,12 +1,12 @@
 ![MasterHead](https://i.pinimg.com/originals/a7/a8/d0/a7a8d06c754cfbbbc37e64cb118c513c.gif)
 <h1 align="center">Hi 👋, I'm Refat Ahmed</h1>
-<h3 align="center">Ai for Healthcare Enthusiast </h3>
+<h3 align="center">Machine Learning Enthusiast </h3>
 
 
 
 
-- 🔭 I’m currently working on **ICRP : An Intelligence CVD Risk Profiling for early identification of Myocardial Infraction and Stroke in Bangladesh in AIMS Lab, UIU (Bangladesh)**
-- 🌱 I’m currently learning **Data analysis, writing research article, writing grant proposal**
+- 🔭 I’m currently working on **ICRP: An Intelligence CVD Risk Profiling for early identification of Myocardial Infraction and Stroke in Bangladesh in AIMS Lab, UIU (Bangladesh)**
+- 🌱 I’m currently learning ** Computer Vision **
 - 📫 How to reach me **refatahmed@iut-dhaka.edu**
 - ⚡ Fun fact **I am a big fan of POKEMON**
 
