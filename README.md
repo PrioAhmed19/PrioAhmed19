@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on developing a Machine Learning based prediction tool to early risk assessment of stroke and heart attack for Bangladesh**
-- 🌱 I’m currently learning ** Computer Vision **
+- 🌱 I’m currently learning " Specialization on Machine Learning "
 - 📫 How to reach me **refatahmed@iut-dhaka.edu**
 - ⚡ Fun fact **I am a big fan of POKEMON**
 
