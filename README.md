@@ -19,10 +19,11 @@
 
 ## 🧠 About Me
 
-- 🌱 Always learning — right now diving into **Transformers & LLMs**
-- 💡 I love building things that think
-- 🎯 Goal: Contribute to meaningful AI research and open-source
-- 📫 Reach me at **refatahmed@iut-dhaka.edu**
+- 🌱 Currently exploring **Transformers and Large Language Models (LLMs)**
+- 💡 Passionate about building intelligent systems and AI-driven applications
+- 🎯 Aspiring to contribute to impactful AI research and open-source projects
+- 📫 Contact: **refatahmed@iut-dhaka.edu**
+- 🌐 Portfolio: https://refat.vercel.app/
 
 ---
 
