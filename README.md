@@ -8,7 +8,7 @@
   <h1>
     Hey there, I'm <span>Refat Ahmed</span> 👋
   </h1>
-  <h3>🤖 Machine Learning Enthusiast &nbsp;|&nbsp; 🎓 IUT Dhaka &nbsp;|&nbsp; 🇧🇩 Bangladesh</h3>
+  <h3>Machine Learning Enthusiast &nbsp;|&nbsp; 🎓 IUT &nbsp;|&nbsp; </h3>
   
   <p>
     <em>Turning data into decisions, and research into real-world impact.</em>
@@ -19,7 +19,6 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently exploring **Deep Learning, NLP & Computer Vision**
 - 🌱 Always learning — right now diving into **Transformers & LLMs**
 - 💡 I love building things that think
 - 🎯 Goal: Contribute to meaningful AI research and open-source
@@ -67,7 +66,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="left">
   <a href="mailto:refatahmed@iut-dhaka.edu" target="_blank">
